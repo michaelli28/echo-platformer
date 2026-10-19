@@ -1,0 +1,8 @@
+.DS_Store
+.claude/
+node_modules/
+.env
+.env.*
+*.log
+# serve.sh writes this while unpacking game.tar.br
+game.tar
