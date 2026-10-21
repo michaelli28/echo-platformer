@@ -2,7 +2,7 @@
 
 A browser puzzle platformer where a ghost copy of you replays your movements from two seconds ago, and you use that copy to get through each room. The whole game is one HTML file with plain JavaScript, the Canvas 2D API and the Web Audio API. It uses no libraries, image files or sound files.
 
-Built at TartanHacks 2026 as a team project.
+Built at TartanHacks 2026 by Alan Dong, Bryan Yung, Seunghyun Bae and Michael Li.
 
 ![ECHO cover art](echo_thumbnail.png)
 
